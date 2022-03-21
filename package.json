@@ -1,6 +1,6 @@
 {
-  "name": "imxxxx-pic",
-  "version": "1.0.2",
+  "name": "h52e5-pic",
+  "version": "1.0.0",
   "description": "图片资源仓库",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imxxxx/pic.git"
+    "url": "git+https://github.com/h52e5/pic.git"
   },
   "keywords": [
     "pic",
     "image",
     "图床"
   ],
-  "author": "imxxxx",
+  "author": "H52e5",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imxxxx/pic/issues"
+    "url": "https://github.com/h52e5/pic/issues"
   },
-  "homepage": "https://github.com/imxxxx/pic#readme"
+  "homepage": "https://github.com/h52e5/pic#readme"
 }
