@@ -1,6 +1,6 @@
 {
   "name": "h52e5-pic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "图片资源仓库",
   "main": "index.js",
   "scripts": {
